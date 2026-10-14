@@ -44,6 +44,5 @@
 
 우리 팀이 수정 중인 오픈 소스 코드
 
-https://github.com/jwayj/newNewGraphhopper
-https://github.com/jwayj/RunPTApp
-
+https://github.com/Seo-Yeon-Choi/newNewGraphhopper
+https://github.com/Seo-Yeon-Choi/RunPTApp
